@@ -1,4 +1,4 @@
-# unit-converter
+# unit-converter-frontend
 
 ## Project setup
 ```
